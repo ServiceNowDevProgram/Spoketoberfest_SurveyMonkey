@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_surveymonkey.LICENSE</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>LICENSE</name>
+        <script><![CDATA[var LICENSE = Class.create();
+LICENSE.prototype = {
+    initialize: function() {},
+
+    /*MIT License
+
+    Copyright(c) 2019 ServiceNow Dev Program
+
+    Permission is hereby granted,
+    free of charge,
+    to any person obtaining a copy of this software and associated documentation files(the "Software"),
+    to deal in the Software without restriction,
+    including without limitation the rights
+    to use,
+    copy,
+    modify,
+    merge,
+    publish,
+    distribute,
+    sublicense,
+    and / or sell
+    copies of the Software,
+    and to permit persons to whom the Software is
+    furnished to do so,
+    subject to the following conditions:
+
+        The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS",
+    WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR
+    IMPLIED,
+    INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+    DAMAGES OR OTHER
+    LIABILITY,
+    WHETHER IN AN ACTION OF CONTRACT,
+    TORT OR OTHERWISE,
+    ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.*/
+    type: 'LICENSE'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-04 15:41:47</sys_created_on>
+        <sys_id>06d3e4e1dbd8405053c6594e5e961963</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LICENSE</sys_name>
+        <sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope>
+        <sys_update_name>sys_script_include_06d3e4e1dbd8405053c6594e5e961963</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-04 15:41:52</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</application>
+        <file_path/>
+        <instance_id>c22a163edb6027006578f22ebf96198e</instance_id>
+        <instance_name>empabarnes</instance_name>
+        <name>sys_script_include_06d3e4e1dbd8405053c6594e5e961963</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_snc_surveymonkey.LICENSE&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;LICENSE&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var LICENSE = Class.create();
+LICENSE.prototype = {
+    initialize: function() {},
+
+    /*MIT License
+
+    Copyright(c) 2019 ServiceNow Dev Program
+
+    Permission is hereby granted,
+    free of charge,
+    to any person obtaining a copy of this software and associated documentation files(the "Software"),
+    to deal in the Software without restriction,
+    including without limitation the rights
+    to use,
+    copy,
+    modify,
+    merge,
+    publish,
+    distribute,
+    sublicense,
+    and / or sell
+    copies of the Software,
+    and to permit persons to whom the Software is
+    furnished to do so,
+    subject to the following conditions:
+
+        The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS",
+    WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR
+    IMPLIED,
+    INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+    DAMAGES OR OTHER
+    LIABILITY,
+    WHETHER IN AN ACTION OF CONTRACT,
+    TORT OR OTHERWISE,
+    ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.*/
+    type: 'LICENSE'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-04 15:41:47&lt;/sys_created_on&gt;&lt;sys_id&gt;06d3e4e1dbd8405053c6594e5e961963&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;LICENSE&lt;/sys_name&gt;&lt;sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey"&gt;27706851dbd8cc1064dcf5861d9619b4&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="SurveyMonkey Spoke"&gt;27706851dbd8cc1064dcf5861d9619b4&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_06d3e4e1dbd8405053c6594e5e961963&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-04 15:41:52&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>239487430</payload_hash>
+        <record_name>LICENSE</record_name>
+        <reverted_from/>
+        <source>2ab3e461dbd8405053c6594e5e9619f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-04 15:41:52</sys_created_on>
+        <sys_id>d9e3e4e1dbd8405053c6594e5e961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d976f3bd70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-04 15:41:52</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>15e3e4e174d84050ae6ad96732d59321</update_guid>
+        <update_guid_history>15e3e4e174d84050ae6ad96732d59321:239487430,c0e3e4e147d84050368999cad9c6ef6a:2028186839</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-04 15:42:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>5ef9665a31b34531ab84e1ad3e7cbf29</sys_id>
+        <sys_metadata>06d3e4e1dbd8405053c6594e5e961963</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LICENSE</sys_name>
+        <sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope>
+        <sys_scope_delete display_value="">15e2a170a40e4f37971c86795627fdf1</sys_scope_delete>
+        <sys_update_name>sys_script_include_06d3e4e1dbd8405053c6594e5e961963</sys_update_name>
+        <sys_update_version display_value="sys_script_include_06d3e4e1dbd8405053c6594e5e961963">d9e3e4e1dbd8405053c6594e5e961921</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-04 15:42:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
