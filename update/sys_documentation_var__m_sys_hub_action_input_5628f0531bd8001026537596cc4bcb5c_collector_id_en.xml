@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="collector_id" label="Collector ID" language="en" table="var__m_sys_hub_action_input_5628f0531bd8001026537596cc4bcb5c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>collector_id</element>
+            <help/>
+            <hint/>
+            <label>Collector ID</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_5628f0531bd8001026537596cc4bcb5c</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>paigemariedev</sys_created_by>
+            <sys_created_on>2019-10-10 03:39:47</sys_created_on>
+            <sys_id>5228bcd31bd8001026537596cc4bcb2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Collector ID</sys_name>
+            <sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_5628f0531bd8001026537596cc4bcb5c_collector_id_en</sys_update_name>
+            <sys_updated_by>paigemariedev</sys_updated_by>
+            <sys_updated_on>2019-10-10 03:39:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
