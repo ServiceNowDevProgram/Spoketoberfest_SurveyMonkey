@@ -1,77 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="type" table="var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>weblink</label>
-            <language>en</language>
-            <name>var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12</name>
-            <sequence>1</sequence>
-            <sys_created_by>paigemariedev</sys_created_by>
-            <sys_created_on>2019-10-09 15:57:23</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>156712c71b90001026537596cc4bcb3b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>paigemariedev</sys_updated_by>
-            <sys_updated_on>2019-10-09 15:57:23</sys_updated_on>
-            <value>weblink</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>sms</label>
-            <language>en</language>
-            <name>var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12</name>
-            <sequence>2</sequence>
-            <sys_created_by>paigemariedev</sys_created_by>
-            <sys_created_on>2019-10-09 15:57:23</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>556712c71b90001026537596cc4bcb3c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>paigemariedev</sys_updated_by>
-            <sys_updated_on>2019-10-09 15:57:23</sys_updated_on>
-            <value>sms</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>email</label>
-            <language>en</language>
-            <name>var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12</name>
-            <sequence>3</sequence>
-            <sys_created_by>paigemariedev</sys_created_by>
-            <sys_created_on>2019-10-09 15:57:23</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>116712c71b90001026537596cc4bcb3d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>paigemariedev</sys_updated_by>
-            <sys_updated_on>2019-10-09 15:57:23</sys_updated_on>
-            <value>email</value>
-        </sys_choice>
-        <sys_choice_set action="INSERT_OR_UPDATE">
+    <sys_choice action="DELETE" field="type" table="var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12" version="3">
+        <sys_choice_set action="DELETE">
             <element>type</element>
             <name>var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12</name>
-            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_class_name/>
             <sys_created_by>paigemariedev</sys_created_by>
-            <sys_created_on>2019-10-09 15:57:23</sys_created_on>
-            <sys_id>5d6712c71b90001026537596cc4bcb3b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_created_on/>
+            <sys_id>9a3d385b1bd8001026537596cc4bcbf8</sys_id>
+            <sys_mod_count/>
             <sys_name>type</sys_name>
             <sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package>
             <sys_policy/>
             <sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope>
             <sys_update_name>sys_choice_var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12_type</sys_update_name>
             <sys_updated_by>paigemariedev</sys_updated_by>
-            <sys_updated_on>2019-10-09 15:57:23</sys_updated_on>
+            <sys_updated_on>2019-10-10 04:02:37</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</application>
+        <file_path/>
+        <instance_id>03b0fafddb0bbf800b9d21c405961912</instance_id>
+        <instance_name>dev90718</instance_name>
+        <name>sys_choice_var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="type" table="var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12" version="3"><sys_choice_set action="DELETE"><element>type</element><name>var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12</name><sys_class_name/><sys_created_by>paigemariedev</sys_created_by><sys_created_on/><sys_id>9a3d385b1bd8001026537596cc4bcbf8</sys_id><sys_mod_count/><sys_name>type</sys_name><sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package><sys_policy/><sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope><sys_update_name>sys_choice_var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12_type</sys_update_name><sys_updated_by>paigemariedev</sys_updated_by><sys_updated_on>2019-10-10 04:02:37</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>290599495</payload_hash>
+        <record_name>.Type</record_name>
+        <reverted_from/>
+        <source>184dfcd71bd8001026537596cc4bcb8d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paigemariedev</sys_created_by>
+        <sys_created_on>2019-10-10 04:02:37</sys_created_on>
+        <sys_id>306d7c5b1bd8001026537596cc4bcbee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16db3d5335c0000001</sys_recorded_at>
+        <sys_updated_by>paigemariedev</sys_updated_by>
+        <sys_updated_on>2019-10-10 04:02:37</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>b86d7c5b2dd800107712a8c538d2f8ed</update_guid>
+        <update_guid_history>b86d7c5b2dd800107712a8c538d2f8ed:290599495,bc6d7c5b82d8001044fbfc5077debcea:1871035343,f46d7c5b98d80010b8b631cf396d23e8:-333890118,571dfc1baad800108e0717d41c231028:-507883944,571dfc1ba8d80010b1fb2d5dbf29c819:1871035343,df1dfc1bf1d8001008c4f2546fb48f16:-333890118,531dfc1b98d80010d2a1db935baef915:-423333564</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paigemariedev</sys_created_by>
+        <sys_created_on>2019-10-10 04:02:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>a87df09b1bd8001026537596cc4bcb79</sys_id>
+        <sys_metadata>a87df09b1bd8001026537596cc4bcb79</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type</sys_name>
+        <sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope>
+        <sys_scope_delete display_value="">15e2a170a40e4f37971c86795627fdf1</sys_scope_delete>
+        <sys_update_name>sys_choice_var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_var__m_sys_hub_action_input_969616471b90001026537596cc4bcb12_type">306d7c5b1bd8001026537596cc4bcbee</sys_update_version>
+        <sys_updated_by>paigemariedev</sys_updated_by>
+        <sys_updated_on>2019-10-10 04:02:55</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>
