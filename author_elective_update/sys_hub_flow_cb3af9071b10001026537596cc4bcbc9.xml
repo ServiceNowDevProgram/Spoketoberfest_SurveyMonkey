@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test</internal_name>
+        <label_cache>null</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>test</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>paigemariedev</sys_created_by>
+        <sys_created_on>2019-10-09 13:49:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cb3af9071b10001026537596cc4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope>
+        <sys_update_name>sys_hub_flow_cb3af9071b10001026537596cc4bcbc9</sys_update_name>
+        <sys_updated_by>paigemariedev</sys_updated_by>
+        <sys_updated_on>2019-10-09 13:49:59</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb3af9071b10001026537596cc4bcbc9"/>
+    <sys_variable_value action="delete_multiple" query="document_key=cb3af9071b10001026537596cc4bcbc9"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=cb3af9071b10001026537596cc4bcbc9^sys_idNOT IN0b3afd0b1b10001026537596cc4bcb53"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>cb3af9071b10001026537596cc4bcbc9</id>
+        <name>test</name>
+        <sys_created_by>paigemariedev</sys_created_by>
+        <sys_created_on>2019-10-09 13:49:59</sys_created_on>
+        <sys_id>0b3afd0b1b10001026537596cc4bcb53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>paigemariedev</sys_updated_by>
+        <sys_updated_on>2019-10-09 13:49:59</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</application>
+        <file_path/>
+        <instance_id>03b0fafddb0bbf800b9d21c405961912</instance_id>
+        <instance_name>dev90718</instance_name>
+        <name>sys_hub_flow_cb3af9071b10001026537596cc4bcbc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><copied_from/><copied_from_name/><description/><internal_name>test</internal_name><label_cache>null</label_cache><latest_snapshot/><master_snapshot/><name>test</name><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>paigemariedev</sys_created_by><sys_created_on>2019-10-09 13:49:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cb3af9071b10001026537596cc4bcbc9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_overrides/><sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package><sys_policy/><sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope><sys_update_name>sys_hub_flow_cb3af9071b10001026537596cc4bcbc9</sys_update_name><sys_updated_by>paigemariedev</sys_updated_by><sys_updated_on>2019-10-09 13:49:59</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=cb3af9071b10001026537596cc4bcbc9"/><sys_variable_value action="delete_multiple" query="document_key=cb3af9071b10001026537596cc4bcbc9"/><sys_flow_cat_variable_model action="delete_multiple" query="id=cb3af9071b10001026537596cc4bcbc9^sys_idNOT IN0b3afd0b1b10001026537596cc4bcb53"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>cb3af9071b10001026537596cc4bcbc9</id><name>test</name><sys_created_by>paigemariedev</sys_created_by><sys_created_on>2019-10-09 13:49:59</sys_created_on><sys_id>0b3afd0b1b10001026537596cc4bcb53</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>paigemariedev</sys_updated_by><sys_updated_on>2019-10-09 13:49:59</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>634154850</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>7e4205661b14001026537596cc4bcba7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paigemariedev</sys_created_by>
+        <sys_created_on>2019-10-09 13:49:59</sys_created_on>
+        <sys_id>1b3afd0b1b10001026537596cc4bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16db0c89abd0000001</sys_recorded_at>
+        <sys_updated_by>paigemariedev</sys_updated_by>
+        <sys_updated_on>2019-10-09 13:49:59</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>533afd0bca100010b6ca7926049c7d58</update_guid>
+        <update_guid_history>533afd0bca100010b6ca7926049c7d58:634154850</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paigemariedev</sys_created_by>
+        <sys_created_on>2019-10-09 14:16:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>2bdd22f399ae405e8846370a940163e1</sys_id>
+        <sys_metadata>cb3af9071b10001026537596cc4bcbc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="SurveyMonkey Spoke" source="x_snc_surveymonkey">27706851dbd8cc1064dcf5861d9619b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SurveyMonkey Spoke">27706851dbd8cc1064dcf5861d9619b4</sys_scope>
+        <sys_scope_delete display_value="">15e2a170a40e4f37971c86795627fdf1</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_cb3af9071b10001026537596cc4bcbc9</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_cb3af9071b10001026537596cc4bcbc9">1b3afd0b1b10001026537596cc4bcb58</sys_update_version>
+        <sys_updated_by>paigemariedev</sys_updated_by>
+        <sys_updated_on>2019-10-09 14:16:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
